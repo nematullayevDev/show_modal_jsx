@@ -2,7 +2,7 @@ body {
   font-family: "Varela", sans-serif;
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(./photo_2023-10-20_08-26-25.jpg);
+    url(../public/mers.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
